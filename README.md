@@ -8,7 +8,7 @@ A community driven list of useful OpenSearch stuff.  Inspired by [awesome-python
 
 ## Table of Contents
 
-- [Awesome OpenSearch ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-opensearch)
+- [Awesome OpenSearch](#awesome-opensearch)
   - [Table of Contents](#table-of-contents)
   - [Plugins](#plugins)
   - [Tools](#tools)
